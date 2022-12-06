@@ -25,3 +25,5 @@ You can use external resources as long as you mark them: as an URL
 ## Implementation
 
 Because of the basic requirements no ExceptionHandling was build therefore a default value was used in the case of a color (the default value is "red")
+
+Git Url: https://github.com/Cleingoun/slm_colors
