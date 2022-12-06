@@ -20,3 +20,8 @@ in a Readme file with explanatory text. Submit the code (including the .git fold
 files) as a zip file (please put the Readme inside the zip file).
 <br>
 You can use external resources as long as you mark them: as an URL
+
+
+## Implementation
+
+Because of the basic requirements no ExceptionHandling was build therefore a default value was used in the case of a color (the default value is "red")
